@@ -1,0 +1,13 @@
+aws s3 cp docs.html s3://jacobra-pb/docs.html
+aws s3 cp ../server/pb/app.swagger.json s3://jacobra-pb/swagger.json
+aws s3 cp favicon-16x16.png s3://jacobra-pb/favicon-16x16.png
+aws s3 cp favicon-32x32.png s3://jacobra-pb/favicon-32x32.png
+aws s3 cp oauth2-redirect.html s3://jacobra-pb/oauth2-redirect.html
+aws s3 cp swagger-ui-bundle.js s3://jacobra-pb/swagger-ui-bundle.js
+aws s3 cp swagger-ui-bundle.js.map s3://jacobra-pb/swagger-ui-bundle.js.map
+aws s3 cp swagger-ui.css s3://jacobra-pb/swagger-ui.css
+aws s3 cp swagger-ui.css.map s3://jacobra-pb/swagger-ui.css.map
+aws s3 cp swagger-ui.js s3://jacobra-pb/swagger-ui.js
+aws s3 cp swagger-ui.js.map s3://jacobra-pb/swagger-ui.js.map
+aws s3 cp swagger-ui-standalone-preset.js s3://jacobra-pb/swagger-ui-standalone-preset.js
+aws s3 cp swagger-ui-standalone-preset.js.map s3://jacobra-pb/swagger-ui-standalone-preset.js.map

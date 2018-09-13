@@ -1,0 +1,3 @@
+server/localhost.key
+server/localhost.crt
+client/node_modules
